@@ -47,7 +47,7 @@ Clone the Repository
 
 Bash
 
-git clone https://github.com/mahaveersalvih/movie-recommendation-system.git
+git clone https://github.com/Mahaveersalvih/movie-recommendation-system.git
 cd movie-recommendation-system
 Install Dependencies Ensure you have Python installed. Then run:
 
